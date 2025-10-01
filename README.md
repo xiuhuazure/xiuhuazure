@@ -32,19 +32,19 @@
     <td align="center" valign="top" width="20%">
       <h3>🌐 Frontend</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js&theme=light&perline=3" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light&perline=3" />
       </a>
     </td>
     <td align="center" valign="top" width="20%">
       <h3>🚀 Backend/App</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,py,java,kotlin&theme=light&perline=3" />
+        <img src="https://skillicons.dev/icons?i=php,py,mysql,java,kotlin&theme=light&perline=3" />
       </a>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🛠️ Tools & Platforms</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,sublime,idea,firebase&theme=light&perline=5" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,pycharm,sublime,androidstudio,idea,firebase,aws,powershell,bash,linux,kali,stackoverflow&theme=light&perline=5" />
       </a>
     </td>
     <td align="center" valign="top" width="22%">
