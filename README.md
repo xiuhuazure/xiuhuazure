@@ -6,7 +6,8 @@
 
 ### 🚀 𝑪𝑼𝑹𝑹𝑬𝑵𝑻𝑳𝒀 𝑳𝑬𝑨𝑹𝑵𝑰𝑵𝑮
 - 𝐆𝐢𝐭
-- 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
+- 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲
+- 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="22" height="22" /> 𝑭𝑼𝑵 𝑭𝑨𝑪𝑻𝑺 𝑨𝑩𝑶𝑼𝑻 𝑴𝑬:</h3> 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="22" height="22" /> 𝐌𝐚𝐭𝐜𝐡𝐚 𝐥𝐚𝐭𝐭𝐞𝐬 𝐚𝐧𝐝 𝐤𝐞𝐲𝐛𝐨𝐚𝐫𝐝 𝐜𝐥𝐢𝐜𝐤𝐬 𝐤𝐞𝐞𝐩 𝐦𝐞 𝐢𝐧 𝐟𝐥𝐨𝐰 𝐦𝐨𝐝𝐞 <br>
