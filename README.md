@@ -17,9 +17,10 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="21" height="20" /> 𝐈 𝐛𝐞𝐥𝐢𝐞𝐯𝐞 𝐬𝐨𝐟𝐭 𝐬𝐤𝐢𝐥𝐥𝐬 𝐦𝐚𝐤𝐞 𝐬𝐭𝐫𝐨𝐧𝐠 𝐝𝐞𝐯𝐬
 </p>
 
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kthese&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/kthese"
+    src="https://render.gitanimals.org/lines/kthese?pet-id=772824864382064721"
     width="700"
     height="140"
   />
