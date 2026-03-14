@@ -1,6 +1,6 @@
 <h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="28" height="28" /></h1> 
 
-<h3 align="center">FUTURE SOC ANALYST FROM THE PHILIPPINES<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Philippines.webp" alt="Flag Philippines" width="30" height="30" /></h3><br>
+<h3 align="center">ASPIRING CYBERSECURITY ANALYST<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Philippines.webp" alt="Flag Philippines" width="30" height="30" /></h3><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="right" width="40%" height="40%"/>
 
@@ -18,9 +18,9 @@
 </p>
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kthese&utm_content=line">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=xiuhuazure&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/kthese?pet-id=772824864382064721"
+    src="https://render.gitanimals.org/lines/xiuhuazure?pet-id=820532761045067734"
     width="700"
     height="140"
   />
