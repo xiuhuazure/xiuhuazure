@@ -21,8 +21,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=xiuhuazure&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/xiuhuazure?pet-id=820532761045067734"
-    width="700"
-    height="140"
+    width="1015"
+    height="130"
   />
 </a>
 
