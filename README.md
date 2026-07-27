@@ -1,5 +1,9 @@
 <h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="28" height="28" /></h1> 
 
+<p align="center">
+  <img src="./assets/Neuvillettechibitransparent.png" alt="Chibi Avatar" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+</p>
+
 <h3 align="center">ASPIRING CYBERSECURITY ANALYST<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Philippines.webp" alt="Flag Philippines" width="30" height="30" /></h3><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="right" width="40%" height="40%"/>
