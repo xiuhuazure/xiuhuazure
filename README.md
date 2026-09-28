@@ -49,7 +49,7 @@
     <td align="center" valign="top" width="33%">
       <h3>🛠️ Tools & Platforms</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,pycharm,sublime,androidstudio,idea,firebase,aws,powershell,bash,linux,kali,stackoverflow&theme=light&perline=5" />
+        <img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode,wordpress,pycharm,sublime,androidstudio,idea,firebase,aws,powershell,bash,linux,kali,stackoverflow&theme=light&perline=5" />
       </a>
     </td>
     <td align="center" valign="top" width="22%">
