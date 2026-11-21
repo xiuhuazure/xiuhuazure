@@ -4,7 +4,7 @@
   <img src="./assets/Neuvillettechibitransparent.png" alt="Chibi Avatar" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
-<h3 align="center">ASPIRING CYBERSECURITY ANALYST<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Philippines.webp" alt="Flag Philippines" width="30" height="30" /></h3><br>
+<h3 align="center">𝖥𝖱𝖮𝖭𝖳-𝖤𝖭𝖣 𝖣𝖤𝖵𝖤𝖫𝖮𝖯𝖤𝖱 & 𝖢𝖸𝖡𝖤𝖱𝖲𝖤𝖢𝖴𝖱𝖨𝖳𝖸 𝖤𝖳𝖧𝖴𝖲𝖨𝖠𝖲𝖳<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Philippines.webp" alt="Flag Philippines" width="30" height="30" /></h3><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="right" width="40%" height="40%"/>
 
